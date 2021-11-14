@@ -34,9 +34,6 @@ public class identicalArrays {
         {
             if(arr1[i] != arr2[i])
             {
-                System.out.println(arr1[i]);
-                System.out.println(arr2[i]);
-
                 System.out.println("The two arrays are not identical");
                 return;
             }

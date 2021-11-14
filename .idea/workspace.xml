@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3819c53c-9fd6-40da-883a-2c6e3fd61921" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/identicalArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/identicalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/identicalArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
