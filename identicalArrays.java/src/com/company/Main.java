@@ -12,12 +12,13 @@ public class Main {
 
         for(int i=0; i<array1.length; i++){
 
-            System.out.println("array1 enter integer number");
+            System.out.print("array1 enter integer number");
             array1[i] = input.nextInt();
         }
+        System.out.println();
         for(int i=0; i<array2.length; i++){
 
-            System.out.println("array1 enter integer number");
+            System.out.print("array2 enter integer number");
             array2[i] = input.nextInt();
         }
 
