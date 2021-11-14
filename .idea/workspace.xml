@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3819c53c-9fd6-40da-883a-2c6e3fd61921" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/identicalArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +83,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.grades">
+  <component name="RunManager" selected="Application.identicalArrays">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="untitled104" />
@@ -107,12 +107,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="identicalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.identicalArrays" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.grades" />
+      <item itemvalue="Application.identicalArrays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.identicalArrays" />
         <item itemvalue="Application.grades" />
       </list>
     </recent_temporary>
